@@ -1,0 +1,21 @@
+{
+  "_id": {
+    "$oid": "662f5e636c1ce5903f7cc089"
+  },
+  "lastName": "Medina",
+  "firstName": "Maura",
+  "age": 15,
+  "active": true,
+  "confined": true
+}
+
+{
+  "_id": {
+    "$oid": "662f61bf6c1ce5903f7cc08c"
+  },
+  "lastName": "Reyes",
+  "firstName": "Mary",
+  "age": 12,
+  "active": true,
+  "confined": true
+}

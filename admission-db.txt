@@ -1,0 +1,25 @@
+{
+  "_id": {
+    "$oid": "662f56f36c1ce5903f7cc081"
+  },
+  "admissionDate": {
+    "$date": "2024-04-20T00:00:00.000Z"
+  },
+  "dischargeDate": {
+    "$date": "2024-04-27T00:00:00.000Z"
+  },
+  "diagnosis": "uncomplicated hypertension"
+}
+
+{
+  "_id": {
+    "$oid": "662f5b2c6c1ce5903f7cc084"
+  },
+  "admissionDate": {
+    "$date": "2024-03-02T00:00:00.000Z"
+  },
+  "dischargeDate": {
+    "$date": "2024-03-10T00:00:00.000Z"
+  },
+  "diagnosis": "type 2 diabetes"
+}

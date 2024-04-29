@@ -1,0 +1,19 @@
+{
+  "_id": {
+    "$oid": "662f5bab6c1ce5903f7cc086"
+  },
+  "lastName": "Reyes",
+  "firstName": "Elisha",
+  "speciality": "Cardiologist",
+  "active": true
+}
+
+{
+  "_id": {
+    "$oid": "662f5d586c1ce5903f7cc087"
+  },
+  "lastName": "Sarrol",
+  "firstName": "Nina",
+  "speciality": "Endocrinologist",
+  "active": true
+}
